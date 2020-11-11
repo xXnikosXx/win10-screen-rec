@@ -4,7 +4,7 @@ Intuitive Windows 10 Screen Recorder
 (Also check out /win10-rss-monitor, it's another electron project i worked on, that features a proper installer!)
 
 Download the .exe from this link: https://drive.google.com/file/d/1U2BctoNkwPNtR8whnX3uXLi4o79BcEzt/view
-(or download the src files from this repo and build the app using node)
+  (or download the src files from this repo and build the app using node)
 
 run the .exe file and the app will be installed on your computer and opened once installation is finished.
 
